@@ -1,0 +1,10 @@
+DESCRIPCIÓN BREVE
+
+Implementamos desde 0 (desde cero) tres estructuras de datos en Python: Stack (LIFO), Queue (FIFO con buffer circular) y OrderedHashMap (tabla hash que preserva el orden de inserción).
+Cada estructura incluye sus operaciones clásicas: Stack (push, pop, peek), Queue (enqueue, dequeue, front) y OrderedHashMap (set, get, delete) con encadenamiento y rehash automático.
+Se añadió un main.py con pruebas básicas para validar el correcto funcionamiento, casos de borde y crecimiento dinámico.
+Trabajo realizado desde 0 y documentado con apoyo de ChatGPT.
+
+
+LIGA A GITHUB:
+https://github.com/A00834245/tareas-compiladores
