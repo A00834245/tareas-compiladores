@@ -1,7 +1,4 @@
-# tareas-compiladores
-Repositorio para tareas del modulo de compiladores. 
-
-## Tarea 1
+# TAREA 1
 Desarrolla y/o documenta una implementacion 
 apropiada para las siguientes clases:
 a) Stack (lifo)
@@ -11,7 +8,3 @@ Las clases deben contener metodos para soportar
 las principales operaciones de acceso y manipulacion
 (clasicas). NO tienen que ser clases, si el lenguaje
 no las soporta. 
-
-### Como correr?
-Ir a folder de tarea 1 -> cd tarea1
-Correr main.py -> python main.py
